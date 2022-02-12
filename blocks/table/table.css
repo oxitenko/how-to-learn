@@ -5,6 +5,9 @@
   flex-direction: wrap;
   flex-wrap: wrap;
   justify-content: space-between;
+  padding: 0px;
   margin: 0 auto;
+  margin-top: 60px;
   color: #000;
+  row-gap: 60px;
 }

@@ -4,5 +4,6 @@
   min-width: 784px;
   flex-direction: column;
   flex-wrap: nowrap;
+  row-gap: 30px;
   color: #000;
 }

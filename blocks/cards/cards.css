@@ -6,7 +6,10 @@
   flex-wrap: wrap;
   justify-content: left;
   margin: 0 auto;
+  margin-top: 60px;
   color: #000;
   padding: 0px;
+  column-gap: 100px;
+  row-gap: 60px;
 }
 
