@@ -5,7 +5,7 @@
   font-weight: normal;
   color: #2f80ed;
   margin: 0px;
-  align-self: stretch;
+  align-self: flex-start;
   opacity: 1;
   transition: opacity 0.3s ease-in;
 }
